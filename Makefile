@@ -1,5 +1,5 @@
-CC=i686-pc-elf-gcc
-LD=i686-pc-elf-ld
+CC=gcc
+LD=ld
 ASM=nasm
 
 CFLAGS:=-std=c99 -MMD
