@@ -12,9 +12,9 @@
 #include <SDL/SDL_video.h>
 
 // Configuration
-#define worldSX 16
-#define worldSY 16
-#define worldSZ 16
+#define worldSX 64
+#define worldSY 64
+#define worldSZ 64
 
 #define skyColor RGB(100, 149, 237)
 
