@@ -16,7 +16,7 @@
 #define worldSY 16
 #define worldSZ 16
 
-#define skyColor RGB(158, 207, 255)
+#define skyColor RGB(100, 149, 237)
 
 #define hFov 90
 
