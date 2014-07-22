@@ -3,9 +3,9 @@
 ;
 
 ; World block dimensions
-%define WORLD_SX 32
-%define WORLD_SY 32
-%define WORLD_SZ 32
+%define WORLD_SX 64
+%define WORLD_SY 64
+%define WORLD_SZ 64
 
 ; This is the direction light rays will use
 %define SUN_DIR_X 1.0
